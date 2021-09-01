@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\2-sykli\projektitiedostot\trash_can\Assets\SpawnEnemy.cs">
+    <Files>
+      <File FileName="..\..\..\2-sykli\projektitiedostot\trash_can\Assets\PlayerBehaviour.cs" Line="12" Column="18" />
+      <File FileName="..\..\..\2-sykli\projektitiedostot\trash_can\Assets\SpawnEnemy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

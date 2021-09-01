@@ -1,0 +1,45 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  3.263 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\2-sykli\TrashCan_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.836850 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.297626 ms (FindLiveObjects: 0.081676 ms CreateObjectMapping: 0.046183 ms MarkObjects: 0.159503 ms  DeleteObjects: 0.008980 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.929226 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.308316 ms (FindLiveObjects: 0.017104 ms CreateObjectMapping: 0.011545 ms MarkObjects: 0.186871 ms  DeleteObjects: 0.091939 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.584133 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.330980 ms (FindLiveObjects: 0.043189 ms CreateObjectMapping: 0.036775 ms MarkObjects: 0.240324 ms  DeleteObjects: 0.009835 ms)
+

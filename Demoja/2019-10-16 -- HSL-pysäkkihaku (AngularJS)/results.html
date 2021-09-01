@@ -1,0 +1,36 @@
+<!--
+    AngularJS-demo - HSL-pysäkkihaku (results.html)
+    Oskari Oksanen, 16.10.2019 
+-->
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="https://code.angularjs.org/1.5.6/angular.min.js"></script>
+<script src="./jsonParser.js"></script>
+<title>AngularJS-demo - HSL-pysäkkihaku</title>
+</head>
+<body>
+    <h2>AngularJS-demo - HSL-pysäkkihaku</h2>
+    <hr/>
+    <div ng-app="stopLister" ng-controller="stopController">
+        <b><a href="./index.html">&#8656;&nbsp;Palaa</a></b>
+        <div ng-repeat="data in stopsData.features | orderBy : 'properties.LYHYTTUNNU + properties.SOLMUTUNNU'"
+            ng-init="propert = data.properties;
+                nimiS = propert.NIMI1 + ', ' + propert.NIMI2;
+                nimiR = propert.NAMN1 + ', ' + propert.NAMN2;
+                searchStr = (nimiS | lowercase) + ' ' + (nimiR | lowercase) + ' ' + (propert.LYHYTTUNNU | lowercase) + ' (' + (propert.SOLMUTUNNU | lowercase) + ')';">
+        <span ng-if="searchStr.indexOf('null, null') > -1">
+            <hr/>Ei löytynyt pysäkkiä hakusanalla: <code>{{searchString}}</code>
+        </span>
+        <span ng-if="searchStr.indexOf((searchString | lowercase)) > -1"> 
+        <hr/>Pysäkki 
+            <span ng-if="propert.LYHYTTUNNU.trim().length > 0">{{propert.LYHYTTUNNU}} ({{propert.SOLMUTUNNU}}):</span>
+            <span ng-if="propert.LYHYTTUNNU.trim().length == 0">{{propert.SOLMUTUNNU}}:</span><br />
+        {{nimiS}}<br />
+        {{nimiR}}
+        </span> 
+        </div>
+        <hr/><b><a href="./index.html">&#8656;&nbsp;Palaa</a></b>
+    </div>
+</body>
+</html>

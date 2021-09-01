@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\4-sykli\projektitiedostot\Bing_Bang_bong\Assets\MoveEnemy.cs">
+    <Files>
+      <File FileName="..\..\..\4-sykli\projektitiedostot\Bing_Bang_bong\Assets\ClickExit.cs" Line="17" Column="3" />
+      <File FileName="..\..\..\4-sykli\projektitiedostot\Bing_Bang_bong\Assets\EnemyAmmoBehav.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\4-sykli\projektitiedostot\Bing_Bang_bong\Assets\MovePlayer.cs" Line="42" Column="3" />
+      <File FileName="..\..\..\4-sykli\projektitiedostot\Bing_Bang_bong\Assets\MoveEnemy.cs" Line="58" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,128 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.288 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\4-sykli\Bing_Bang_Bong-v2_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.154147 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.306178 ms (FindLiveObjects: 0.039341 ms CreateObjectMapping: 0.039768 ms MarkObjects: 0.215522 ms  DeleteObjects: 0.009835 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.747913 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.517852 ms (FindLiveObjects: 0.026085 ms CreateObjectMapping: 0.020525 ms MarkObjects: 0.283942 ms  DeleteObjects: 0.186443 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605942 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.273251 ms (FindLiveObjects: 0.100063 ms CreateObjectMapping: 0.009835 ms MarkObjects: 0.153516 ms  DeleteObjects: 0.008552 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.778702 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.515286 ms (FindLiveObjects: 0.023946 ms CreateObjectMapping: 0.019670 ms MarkObjects: 0.285224 ms  DeleteObjects: 0.185588 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.632882 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.322000 ms (FindLiveObjects: 0.043617 ms CreateObjectMapping: 0.032927 ms MarkObjects: 0.226640 ms  DeleteObjects: 0.017532 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.780413 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.563180 ms (FindLiveObjects: 0.028223 ms CreateObjectMapping: 0.020525 ms MarkObjects: 0.275817 ms  DeleteObjects: 0.236903 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628179 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.301047 ms (FindLiveObjects: 0.036775 ms CreateObjectMapping: 0.031644 ms MarkObjects: 0.223219 ms  DeleteObjects: 0.008552 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at EnemyAmmoBehav.TuhoaAmmus () [0x00000] in <filename unknown>:0 
+  at PlayerAmmoBehav.siirraAmmusta () [0x00000] in <filename unknown>:0 
+  at PlayerAmmoBehav.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.088302 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.772288 ms (FindLiveObjects: 0.046183 ms CreateObjectMapping: 0.028223 ms MarkObjects: 0.435748 ms  DeleteObjects: 0.260850 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658540 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.284797 ms (FindLiveObjects: 0.042334 ms CreateObjectMapping: 0.033354 ms MarkObjects: 0.199700 ms  DeleteObjects: 0.008124 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.914686 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.718835 ms (FindLiveObjects: 0.029506 ms CreateObjectMapping: 0.021808 ms MarkObjects: 0.370322 ms  DeleteObjects: 0.296343 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.562325 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.283086 ms (FindLiveObjects: 0.035065 ms CreateObjectMapping: 0.031644 ms MarkObjects: 0.208252 ms  DeleteObjects: 0.007269 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.922811 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.597390 ms (FindLiveObjects: 0.038913 ms CreateObjectMapping: 0.020098 ms MarkObjects: 0.319007 ms  DeleteObjects: 0.217660 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.731664 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.313020 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.033354 ms MarkObjects: 0.233054 ms  DeleteObjects: 0.009407 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.638869 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.478938 ms (FindLiveObjects: 0.039341 ms CreateObjectMapping: 0.032499 ms MarkObjects: 0.257001 ms  DeleteObjects: 0.148813 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613212 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 0.302329 ms (FindLiveObjects: 0.035920 ms CreateObjectMapping: 0.031644 ms MarkObjects: 0.225785 ms  DeleteObjects: 0.008124 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543937 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 0.546503 ms (FindLiveObjects: 0.043189 ms CreateObjectMapping: 0.032927 ms MarkObjects: 0.358776 ms  DeleteObjects: 0.110754 ms)
+

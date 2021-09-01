@@ -1,0 +1,13 @@
+Spell It!
+
+Spell It! on n‰pp‰imistˆˆn pohjautuva ampumispeli, miss‰ pelaajan pit‰‰ liikkua linjalta toiselle ja est‰‰ l‰hestyvi‰ palloja p‰‰sem‰st‰ pelaajan puoleiseen p‰‰tyyn. Tavanomaisten nuolin‰pp‰inten ja v‰lilyˆnnin sijaan peli kuitenkin arpoo pelaajalle eri n‰pp‰imet, joiden mukaan peli‰ pystyy pelaamaan. Esimerkiksi alkutilanteessa, kun pelaaja aloittaa pelin, peli voisi arpoa ja esitt‰‰ liikkuman‰pp‰imiksi vaikkapa Y- ja D-n‰pp‰imet, kun taas ampuminen tapahtuisi Q-n‰pp‰imest‰. Pelaajan painaessa jotain sallittua nappia, peli kuitenkin vaihtaa painetun napin tilalle jonkun muun napin, joten saman napin jatkuvalla naputtelulla ei voi p‰‰st‰ peliss‰ eteenp‰in.
+Yksinkertaistettuna peli siis tulisi toimimaan n‰in:
+1. Alkutilanne, pelaajalle arvotaan (esimerkkin‰) liikkuman‰pp‰imiksi K ja R ja ampuman‰pp‰imeksi P. Pelaaja on linjalla 2.
+2. Pelaaja siirtyy linjalle 1 painamalla K-n‰pp‰int‰. Pelaaja siirtyy, ja peli vaihtaa K-n‰pp‰imen tilalle E-n‰pp‰imen. R ja P pysyv‰t samoina.
+3. Pelaaja ampuu linjalla olevaa palloa P-n‰pp‰imell‰, ja peli vaihtaa uudeksi ampuman‰pp‰imeksi W:n. E ja R pysyv‰t samoina.
+4. Jos pelaaja painaa v‰‰ri‰ n‰pp‰imi‰, peli laittaa virheet muistiin ja n‰kyviin ruudulle. Pelaajan tehdess‰ tarpeeksi monta virhett‰ pallojen nopeus voi nousta, tai pelaajalle tehd‰‰n muulla tavalla entist‰ vaikeammaksi torjua palloja.
+5. Peli p‰‰ttyy, kun yksikin pallo p‰‰see linjan p‰‰h‰n ja pelaajan p‰‰tyyn.
+Pelin idea pohjautuu lˆyh‰sti The Typing of the Deadin konseptiin, mutta sanojen kirjoittamisen sijaan pelaaja n‰pp‰ilee ainoastaan yksitt‰isi‰ kirjaimia. T‰ss‰ mieless‰ t‰m‰n pelin idea olisi vertailtavissa myˆs ns. Quick Time Eventteihin; pelaajan pit‰‰ painaa tiettyj‰ tavallisuudesta poikkeavia n‰pp‰imi‰ tietyn aikarajan sis‰ll‰ edet‰kseen peliss‰. Oikeanlaisella vaikeustasolla Spell it! voisi auttaa nopeuttamaan k‰ytt‰j‰n kirjoitusnopeutta, kuten mobiililaitteille tarkoitettu Text Text Revolution (ks. Rudchenko, Paek ja Badger, 210-212).
+
+L‰hde: Rudchenko, D., Paek, T. ja Badger, E. 2011. "Pervasive Computing". Luku Text Text Revolution: A Game That Improves Text Entry on Mobile Touchscreen Keyboards, toimittanut K. Lyons, J. Hightower ja E. Huang, 206-213. ISBN: 9783642217258.
+Saatavilla verkosta: <http://doi.org/10.1007/978-3-642-21726-5_13>. Viitattu 2.7.2015.

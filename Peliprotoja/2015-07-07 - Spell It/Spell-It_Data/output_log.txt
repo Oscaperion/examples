@@ -1,0 +1,87 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.297 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oskari\jyu\ties474-pelikehityshaaste\3-sykli\Spell-It_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.638433 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.343809 ms (FindLiveObjects: 0.050459 ms CreateObjectMapping: 0.036348 ms MarkObjects: 0.249304 ms  DeleteObjects: 0.006414 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.533246 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.424630 ms (FindLiveObjects: 0.038058 ms CreateObjectMapping: 0.037203 ms MarkObjects: 0.242034 ms  DeleteObjects: 0.106478 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.963436 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.292494 ms (FindLiveObjects: 0.044472 ms CreateObjectMapping: 0.036348 ms MarkObjects: 0.205686 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.508444 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.395124 ms (FindLiveObjects: 0.040624 ms CreateObjectMapping: 0.035065 ms MarkObjects: 0.211673 ms  DeleteObjects: 0.106905 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.528115 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.289073 ms (FindLiveObjects: 0.050459 ms CreateObjectMapping: 0.037203 ms MarkObjects: 0.194568 ms  DeleteObjects: 0.005986 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.645711 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.440879 ms (FindLiveObjects: 0.029506 ms CreateObjectMapping: 0.034637 ms MarkObjects: 0.247594 ms  DeleteObjects: 0.128287 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.609791 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.280948 ms (FindLiveObjects: 0.056873 ms CreateObjectMapping: 0.036348 ms MarkObjects: 0.179174 ms  DeleteObjects: 0.006841 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.242674 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.442590 ms (FindLiveObjects: 0.030788 ms CreateObjectMapping: 0.036348 ms MarkObjects: 0.264699 ms  DeleteObjects: 0.109899 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602094 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.293777 ms (FindLiveObjects: 0.042762 ms CreateObjectMapping: 0.033782 ms MarkObjects: 0.210818 ms  DeleteObjects: 0.005559 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587554 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 0.433610 ms (FindLiveObjects: 0.034637 ms CreateObjectMapping: 0.035492 ms MarkObjects: 0.252725 ms  DeleteObjects: 0.109899 ms)
+

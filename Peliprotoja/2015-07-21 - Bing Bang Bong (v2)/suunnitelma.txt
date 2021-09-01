@@ -1,0 +1,7 @@
+4. sykli‰ varten aion p‰ivitt‰‰ 1. syklin peli‰ Bing Bang Bong. Ensimm‰isen‰ peliprototyyppin‰ni ja Unity-tuotoksenani peli j‰i uupumaan monta suunnittelemaani ominaisuutta, joten aion t‰m‰n syklin aikana lis‰t‰ ainakin osan n‰ist‰ ominaisuuksista.
+Kloonipeliksi prototyypist‰ puuttui pohjimmiltaan seuraavat ominaisuudet:
+- el‰m‰mittari,
+- pistelaskuri ja
+- enemm‰n kuin yksi taso.
+Suunnittelen joka tapauksessa j‰tt‰v‰ni peliproton kuitenkin yhden tason pituseksi, koska tarkoituksenani olisi hioa vain pelin mekaniikkoja. Aion lis‰t‰ alkuper‰isen pelin mukaisesti el‰m‰pisteet, sek‰ jonkinlaisen pisteenlaskun. Alkuper‰isest‰ pelist‰ poiketen peliproto tulisi kuitenkin loppumaan siin‰ vaiheessa, kun pelaaja saa vihollisen el‰m‰pisteet tyhjiksi ensimm‰isell‰ kerralla.
+Nykymuodossaan peliprototyyppi sallii pelaaja- ja vihollishahmon ampuvan vain yhden kiekon kerrallaan, kun taas alkuper‰isess‰ peliss‰ molemmat hahmot saavat ampua kent‰lle kolme kiekkoa kerrallaan, mink‰ lis‰ksi kiekot voivat tuhoutua tˆrm‰yksess‰. Aion p‰ivitt‰‰ v‰hint‰‰n kiekkojen sallitun m‰‰r‰n alkuper‰isen pelin mukaiseksi. Lis‰ksi suunnittelen j‰rkevˆitt‰v‰ni vihollisen k‰ytt‰ytymist‰, jotta vihollinen ei vahingossa tipahtaisi alustaltaan omia aikojaan. Lopuksi aion lis‰t‰ peliin ‰‰niefektit, jotka sain jo 1. syklin aikana tehty‰, mutta jotka j‰iv‰t k‰ytt‰m‰tt‰ tietotaidon ja ajan puutteen vuoksi.
